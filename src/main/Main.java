@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("Hello Git Version Control");
 		System.out.println("Hello Git Version Control-Changed1");
 		System.out.println("Test SSH success");
+		System.out.println("This is shoppingCart version");
 	}
 
 }
